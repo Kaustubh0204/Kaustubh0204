@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left" font-size="1px">Hi , I'm Kaustubh</h1>
+<h1 align="left" font-size="1">Hi , I'm Kaustubh</h1>
 <h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh0204&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh0204" /> </p>
@@ -33,6 +33,3 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubh0204&show_icons=true&locale=en" alt="kaustubh0204" /></p>
 
-@settings {
-  font-size: 2px;
-}

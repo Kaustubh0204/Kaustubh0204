@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left" font-size="1">Hi , I'm Kaustubh</h1>
-<h3 align="left">Web Developer</h3>
+<h4 align="left" font-size="1">Hi , I'm Kaustubh</h1>
+<h4 align="left">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh0204&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh0204" /> </p>
 

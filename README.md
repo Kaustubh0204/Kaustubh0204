@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="left">Hi , I'm Kaustubh</h4>
+<h4 align="left">Hi, I'm Kaustubh.</h4>
 
 ![alt text](https://raw.githubusercontent.com/Kaustubh0204/Kaustubh0204/main/me.png)
 

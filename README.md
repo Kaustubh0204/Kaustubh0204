@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![alt text](https://raw.githubusercontent.com/Kaustubh0204/Kaustubh0204/main/me.png)
 
-<table>
+<!-- <table>
 <tbody>
 <tr>
 <td><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></td>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <td><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh0204&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh0204" /> </p>

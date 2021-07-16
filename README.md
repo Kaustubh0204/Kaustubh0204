@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h4 align="left" font-size="1">Hi , I'm Kaustubh</h4>
 <h4 align="left">Web Developer</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh0204&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh0204" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh0204&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh0204" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubh0204&show_icons=true&locale=en&layout=compact" alt="kaustubh0204" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubh0204&show_icons=true&locale=en" alt="kaustubh0204" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubh0204&show_icons=true&locale=en" alt="kaustubh0204" /></p> -->
 

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h4 align="left">Hi , I'm Kaustubh</h4>
 
-![alt text](https://raw.githubusercontent.com/Kaustubh0204/Kaustubh0204/main/My%20Post%20(1).png)
+![alt text](https://raw.githubusercontent.com/Kaustubh0204/Kaustubh0204/main/me.png)
 
 
 

@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
-<h4 align="left">Connect</h4>
+<h4 align="left">Connect 🔗</h4>
 <p align="left">
 <a href="https://instagram.com/kaustubh_0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubh_0204" height="30" width="40" /></a>
 <a href="https://discord.gg/fQZe3Dz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zoro#9750" height="30" width="40" /></a>

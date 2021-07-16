@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 </tr>
 </tbody>
 </table>
+
+![My stats](https://github-readme-stats.vercel.app/api?username=Kaustubh0204&show_icons=true&theme=radical)
+
 <!-- <table>
 <tbody>
 <tr>

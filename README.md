@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h4 align="left">Hi , I'm Kaustubh</h4>
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8aa7e828-cef5-4a91-9367-644f1554aa22/ddp1fwo-af3c630b-b850-48ea-8ac5-50f5d708ffd0.png/v1/fill/w_800,h_300,strp/niya_banner_anime_shapes_by_auralanity_ddp1fwo-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzAwIiwicGF0aCI6IlwvZlwvOGFhN2U4MjgtY2VmNS00YTkxLTkzNjctNjQ0ZjE1NTRhYTIyXC9kZHAxZndvLWFmM2M2MzBiLWI4NTAtNDhlYS04YWM1LTUwZjVkNzA4ZmZkMC5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.175zlulMhNrjVdzYG6dTOBjWydNy3pLsgFQweiqmZX8)]
+<!-- [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8aa7e828-cef5-4a91-9367-644f1554aa22/ddp1fwo-af3c630b-b850-48ea-8ac5-50f5d708ffd0.png/v1/fill/w_800,h_300,strp/niya_banner_anime_shapes_by_auralanity_ddp1fwo-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzAwIiwicGF0aCI6IlwvZlwvOGFhN2U4MjgtY2VmNS00YTkxLTkzNjctNjQ0ZjE1NTRhYTIyXC9kZHAxZndvLWFmM2M2MzBiLWI4NTAtNDhlYS04YWM1LTUwZjVkNzA4ZmZkMC5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.175zlulMhNrjVdzYG6dTOBjWydNy3pLsgFQweiqmZX8)] -->
 <!-- <h4 align="left">Web Developer</h4> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh0204&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh0204" /> </p>

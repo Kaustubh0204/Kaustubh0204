@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h4 align="left">Hi , I'm Kaustubh</h4>
 
-<!-- ![alt text](https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg)
- -->
+![alt text](https://raw.githubusercontent.com/Kaustubh0204/Kaustubh0204/main/My%20Post%20(1).png)
+
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh0204&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh0204" /> </p>

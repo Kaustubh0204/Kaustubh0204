@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
-<img align="right" ![My stats](https://github-readme-stats.vercel.app/api?username=Kaustubh0204&show_icons=true&theme=radical)>
+<!-- <img align="right" ![My stats](https://github-readme-stats.vercel.app/api?username=Kaustubh0204&show_icons=true&theme=radical)> -->
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kaustubh0204&show_icons=true&theme=radical" alt="Kaustubh0204" /></p>
+
 <!-- <table>
 <tbody>
 <tr>

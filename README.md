@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </table>
 </td>
 <td>
-  <h4>Stats 📈</h4>
+  <h4>&nbsp;Stats 📈</h4>
   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kaustubh0204&show_icons=true&theme=radical" alt="Kaustubh0204" /></p>
 </td>
 </tr>

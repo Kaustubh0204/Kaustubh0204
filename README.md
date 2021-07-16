@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 
 ![alt text](https://raw.githubusercontent.com/Kaustubh0204/Kaustubh0204/main/me.png)
 
-<h4>Tools 🛠️</h4>
+
+<table>
+<tbody>
+<tr>
+<td>
+  <h4>Tools 🛠️</h4>
 <table>
 <tbody>
 <tr>
@@ -42,9 +47,18 @@ Here are some ideas to get you started:
 </tr>
 </tbody>
 </table>
+</td>
+<td>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kaustubh0204&show_icons=true&theme=radical" alt="Kaustubh0204" /></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 
 <!-- <img align="right" ![My stats](https://github-readme-stats.vercel.app/api?username=Kaustubh0204&show_icons=true&theme=radical)> -->
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kaustubh0204&show_icons=true&theme=radical" alt="Kaustubh0204" /></p>
+
 
 <!-- <table>
 <tbody>

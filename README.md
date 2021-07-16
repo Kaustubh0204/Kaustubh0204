@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi , I'm Kaustubh</h1>
+<h1 align="left" font-size="5px">Hi , I'm Kaustubh</h1>
 <h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh0204&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh0204" /> </p>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kaustubh_0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubh_0204" height="30" width="40" /></a>
-<a href="https://discord.gg/Zoro#9750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zoro#9750" height="30" width="40" /></a>
+<a href="https://discord.gg/fQZe3Dz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zoro#9750" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
